@@ -1,6 +1,7 @@
 # Currículum de Eric Guillen Artacho
 
-## DATOS PERSONALES
+## DATOS PERSONALES                  ## HABILIDADES
+                                        Trabajar en equipo
 +34 680 29 42 97
 
 ericguillen93@gmail.com

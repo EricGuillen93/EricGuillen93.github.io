@@ -1,5 +1,13 @@
 # Currículum de Eric Guillen Artacho
 
+## DATOS PERSONALES
++34 680 29 42 97
+
+ericguillen93@gmail.com
+
+Barcelona
+08759
+
 ## Datos Académicos
 Barcelona,Vallirana,(2018-2022)
 Estuve estudiando la educación secundaria obligatoria y la aprove con éxito.

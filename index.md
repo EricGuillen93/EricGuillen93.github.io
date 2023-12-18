@@ -32,6 +32,9 @@
 - Título de Excel (expert).
 
 ## Idiomas
-| Idioma      | Nivel       |
-|:-----------:|:-----------:|
-| Castellano  | Nivel Alto  |
+| Idioma   | Nivel        |
+|:--------:|:------------:|
+| Español  | Nativo       |
+| Catalán  | Nativo       |
+| Inglés   | Nivel Medio  |
+

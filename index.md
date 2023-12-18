@@ -1,98 +1,53 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tu Nombre - Currículum</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-        }
+# Currículum de Eric Guillen Artacho
 
-        header {
-            text-align: center;
-        }
+## Datos Académicos
+Barcelona,Vallirana,(2018-2022)
+Estuve estudiando la educación secundaria obligatoria y la aprove con éxito.
 
-        section {
-            margin-bottom: 20px;
-        }
+Barcelona, Hospitalet de Llobregat,(2023)
+Actualmente estoy estudiando un ciclo formativo de grado medio de sistemas microinformáticos y redes.
+## Experiéncia
+-Programación de servidores de discord
+-Experiéncia en crear mi propia página web con html
 
-        h1, h2 {
-            color: #333;
-        }
+### ExperiÉncia LABORAL
+En los veranos he  estado trabajando con mi madre en su empresa, el trabajo consiste en revisiónes de todo tipo de cosas relaciónadas con náutica, en su misma empresa, tiene una tienda.
+Yo lo que hago es estar en la tienda o estar ayudadndo en el almacen,ya sea para revisar balsas o limpiar o atender a los clientes.
+Este trabajo no me ayuda mucho para el tema de la programación,pero si que me ayuda a saber más de cara al público
 
-        ul {
-            list-style-type: none;
-            padding: 0;
-        }
+### Formación Profesional
+- FPGM Sistemas Microinformáticos y Redes
+  - iFP Centro de Formación Profesional, Barcelona (2020 - Actualidad)
 
-        li {
-            margin-bottom: 8px;
-        }
-    </style>
-</head>
-<body>
+### Complementario
+- Competencias Digitales Excel (MOS) - Certificado por Microsoft (2021)
+- Inglés B2 - English Connection, L’Hospitalet de Llobregat, Barcelona (2021)
 
-    <header>
-        <h1>Tu Nombre</h1>
-        <p>Desarrollador de Software</p>
-    </header>
+## Experiencia
+- **Asistente en Empresa Náutica (Veranos)**
+  - Empresa: [Nombre de la Empresa de tu madre]
+  - Ubicación: [Ubicación de la Empresa]
+  - Periodo: Veranos (Año a Año)
+  - Descripción: Durante los veranos, he colaborado activamente en la empresa de mi madre, que se dedica a la náutica. Mi rol abarca diversas responsabilidades, desde estar presente en la tienda hasta ayudar en el almacén.
 
-    <section>
-        <h2>Contacto</h2>
-        <ul>
-            <li>Correo electrónico: tu@email.com</li>
-            <li>Teléfono: (123) 456-7890</li>
-            <li>LinkedIn: linkedin.com/in/tunombre</li>
-            <li>GitHub: github.com/tunombre</li>
-        </ul>
-    </section>
+- **Programación de Servidores de Discord**
+  - Descripción: Poseo experiencia en la programación de servidores de Discord, lo que incluye la configuración y desarrollo de funciones personalizadas para mejorar la interacción y funcionalidad del servidor.
 
-    <section>
-        <h2>Educación</h2>
-        <p>Grado en Ingeniería Informática - Universidad XYZ</p>
-        <p>Año de graduación: 2022</p>
-    </section>
+- **Desarrollo de Página Web con HTML**
+  - Descripción: Cuento con experiencia en la creación de mi propia página web utilizando HTML.
 
-    <section>
-        <h2>Experiencia Laboral</h2>
-        <h3>Desarrollador de Software - Empresa ABC</h3>
-        <p>Fecha de inicio - Fecha de finalización</p>
-        <ul>
-            <li>Desarrollo y mantenimiento de aplicaciones web.</li>
-            <li>Colaboración en equipos ágiles utilizando metodologías Scrum.</li>
-            <!-- Agrega más detalles según sea necesario -->
-        </ul>
-    </section>
+## HABILIDADES
+- Buena Comunicación
 
-    <section>
-        <h2>Habilidades</h2>
-        <ul>
-            <li>Desarrollo web (HTML, CSS, JavaScript)</li>
-            <li>Lenguajes de programación (Java, Python)</li>
-            <li>Base de datos (SQL, MongoDB)</li>
-            <!-- Agrega más habilidades según sea necesario -->
-        </ul>
-    </section>
+-Resolución de problemas
 
-    <section>
-        <h2>Proyectos</h2>
-        <h3>Proyecto 1 - Nombre del Proyecto</h3>
-        <p>Descripción breve del proyecto y tu contribución.</p>
-        <h3>Proyecto 2 - Nombre del Proyecto</h3>
-        <p>Descripción breve del proyecto y tu contribución.</p>
-        <!-- Agrega más proyectos según sea necesario -->
-    </section>
+-Paciente
 
-    <footer>
-        <p>© 2023 Tu Nombre. Todos los derechos reservados.</p>
-    </footer>
+- Trabajar en equipo
 
-</body>
-</html>
 
-| Catalán     | Nivel Alto  |
-| Inglés      | Nivel Medio |
 
+## Idiomas
+| Idioma      | Nivel       |
+|:-----------:|:-----------:|
+| Castellano  | Nivel Alto  |

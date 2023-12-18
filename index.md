@@ -1,8 +1,11 @@
-# Currículum de Josué Ríos Aguilar
+# Currículum de Eric Guillen Artacho
 
-## Objetivo Profesional
-Tengo nociones de usuario en Cisco, en Wireshark y en la suite ofimática de Office 365. Como también, un certificado MOS Excel. Mi objetivo se centra en trabajar en el área de redes y también en el de la programación.
+## Datos Académicos
+Barcelona,Vallirana,(2018-2022)
+Estuve estudiando la educación secundaria obligatoria y la aprove con éxito.
 
+Barcelona, Hospitalet de Llobregat,(2023)
+Actualmente estoy estudiando un ciclo formativo de grado medio de sistemas microinformáticos y redes.
 ## Formación
 ### Educación Secundaria Obligatoria (ESO)
 - INS, Eugeni Ors, L’Hospitalet de Llobregat, Barcelona (2020)

@@ -1,37 +1,44 @@
-# **[Tu Nombre Completo]**
+# Currículum de Josué Ríos Aguilar
+
 ## Objetivo Profesional
-Nociones de usuario en Cisco, Wireshark y suite ofimática Office 365. Certificado MOS Excel. Objetivo centrado en trabajar en el área de redes y programación.
+Tengo nociones de usuario en Cisco, en Wireshark y en la suite ofimática de Office 365. Como también, un certificado MOS Excel. Mi objetivo se centra en trabajar en el área de redes y también en el de la programación.
 
 ## Formación
-### 2022 - Actualidad, Ciclo Formativo de Grado Medio en Sistemas Microinformáticos y Redes
-iFP Centro de Formación Profesional, Barcelona
+### Educación Secundaria Obligatoria (ESO)
+- INS, Eugeni Ors, L’Hospitalet de Llobregat, Barcelona (2020)
+  - Con un promedio de un 6 aprobé la ESO.
 
-### 2018-2022, Educación Secundaria Obligatoria
-Instituto de Educación Secundaria, Vallirana, Barcelona
+### Formación Profesional
+- FPGM Sistemas Microinformáticos y Redes
+  - iFP Centro de Formación Profesional, Barcelona (2020 - Actualidad)
+
+### Complementario
+- Competencias Digitales Excel (MOS) - Certificado por Microsoft (2021)
+- Inglés B2 - English Connection, L’Hospitalet de Llobregat, Barcelona (2021)
 
 ## Experiencia
-- Programación de servidores de Discord.
-- Creación de mi propia página web con HTML.
+- **Asistente en Empresa Náutica (Veranos)**
+  - Empresa: [Nombre de la Empresa de tu madre]
+  - Ubicación: [Ubicación de la Empresa]
+  - Periodo: Veranos (Año a Año)
+  - Descripción: Durante los veranos, he colaborado activamente en la empresa de mi madre, que se dedica a la náutica. Mi rol abarca diversas responsabilidades, desde estar presente en la tienda hasta ayudar en el almacén.
 
-### Experiencia Laboral
-**[Nombre de la Empresa de Tu Madre]**
-- Barcelona, Hospitalet de Llobregat, Veranos de 2018-2022
-- Trabajo en revisión de productos náuticos y atención al cliente en la tienda.
+- **Programación de Servidores de Discord**
+  - Descripción: Poseo experiencia en la programación de servidores de Discord, lo que incluye la configuración y desarrollo de funciones personalizadas para mejorar la interacción y funcionalidad del servidor.
+
+- **Desarrollo de Página Web con HTML**
+  - Descripción: Cuento con experiencia en la creación de mi propia página web utilizando HTML.
 
 ## Competencias Personales
-Proactivo, con iniciativa, capacidad de organización, manejo del estrés y adaptabilidad al trabajo colaborativo.
+Soy una persona proactiva, con iniciativa, con capacidad de organización, además, se gestionar el estrés y sé adaptarme a ambiente de trabajo colaborativo social.
 
-## Otros Datos de Interés
-Disponibilidad para trabajar por las tardes. Martes y jueves dedicados a clases de inglés (1h30min), con flexibilidad para adaptarse a las necesidades laborales.
+## Otros datos de interés
+Dispongo de tiempo para trabajar por las tardes, por lo cual puedo adaptarme con facilidad a las exigencias que en su momento se den. Si bien el tiempo es una de las cosas que menos me preocupan, he de decir que los martes y jueves hago 1h y 30min de inglés. Pero estas se pueden adaptar perfectamente a mis prácticas, a fin de aprovechar bien el tiempo.
 
-### Idiomas
-| Idioma     | Nivel       |
-|:----------:|:-----------:|
-| Castellano | Nivel Alto  |
-| Catalán    | Nivel Alto  |
-| Inglés     | Nivel Medio |
-
-## Datos Académicos
-- Barcelona, Vallirana (2018-2022): Educación Secundaria Obligatoria, aprobada con éxito.
-- Barcelona, Hospitalet de Llobregat (2023): Actualmente cursando Ciclo Formativo de Grado Medio en Sistemas Microinformáticos y Redes.
+## Idiomas
+| Idioma      | Nivel       |
+|:-----------:|:-----------:|
+| Castellano  | Nivel Alto  |
+| Catalán     | Nivel Alto  |
+| Inglés      | Nivel Medio |
 

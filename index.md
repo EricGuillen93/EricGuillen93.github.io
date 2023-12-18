@@ -36,11 +36,16 @@ Este trabajo no me ayuda mucho para el tema de la programación,pero si que me a
 - **Desarrollo de Página Web con HTML**
   - Descripción: Cuento con experiencia en la creación de mi propia página web utilizando HTML.
 
-## Competencias Personales
-Soy una persona proactiva, con iniciativa, con capacidad de organización, además, se gestionar el estrés y sé adaptarme a ambiente de trabajo colaborativo social.
+## HABILIDADES
+- Buena Comunicación
 
-## Otros datos de interés
-Dispongo de tiempo para trabajar por las tardes, por lo cual puedo adaptarme con facilidad a las exigencias que en su momento se den. Si bien el tiempo es una de las cosas que menos me preocupan, he de decir que los martes y jueves hago 1h y 30min de inglés. Pero estas se pueden adaptar perfectamente a mis prácticas, a fin de aprovechar bien el tiempo.
+-Resolución de problemas
+
+-Paciente
+
+- Trabajar en equipo
+
+
 
 ## Idiomas
 | Idioma      | Nivel       |

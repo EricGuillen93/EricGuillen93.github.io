@@ -1,13 +1,24 @@
 # Currículum de Eric Guillen Artacho
 
-## DATOS PERSONALES                  ## HABILIDADES
-                                        Trabajar en equipo
+## DATOS PERSONALES                 
 +34 680 29 42 97
-
 ericguillen93@gmail.com
-
 Barcelona
 08759
+
+ ## HABILIDADES
+- Buena Comunicación
+
+-Resolución de problemas
+
+-Paciente
+
+- Trabajar en equipo
+
+ ## TÍTULOS EXTRA
+  -Carnet de ciclomotor
+
+  -Título de Excel (expert)
 
 ## Datos Académicos
 Barcelona,Vallirana,(2018-2022)

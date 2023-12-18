@@ -1,42 +1,35 @@
 # Currículum de Eric Guillen Artacho
 
-
 ## Datos Académicos
-Barcelona,Vallirana,(2018-2022)
-Estuve estudiando la educación secundaria obligatoria y la aprove con éxito.
+- Barcelona, Vallirana (2018-2022)
+  - Educación Secundaria Obligatoria (ESO) - Aprobada con éxito.
 
-Barcelona, Hospitalet de Llobregat,(2023)
-Actualmente estoy estudiando un ciclo formativo de grado medio de sistemas microinformáticos y redes.
-## Experiéncia
--Programación de servidores de discord
--Experiéncia en crear mi propia página web con html
+- Barcelona, Hospitalet de Llobregat (2023)
+  - Ciclo Formativo de Grado Medio en Sistemas Microinformáticos y Redes.
 
-### ExperiÉncia LABORAL
-En los veranos he  estado trabajando con mi madre en su empresa, el trabajo consiste en revisiónes de todo tipo de cosas relaciónadas con náutica, en su misma empresa, tiene una tienda.
-Yo lo que hago es estar en la tienda o estar ayudadndo en el almacen,ya sea para revisar balsas o limpiar o atender a los clientes.
-Este trabajo no me ayuda mucho para el tema de la programación,pero si que me ayuda a saber más de cara al público
+## Experiencia
+- Programación de servidores de Discord.
+- Creación de una página web propia con HTML.
 
-## DATOS PERSONALES                 
-+34 680 29 42 97
-ericguillen93@gmail.com
-Barcelona
-08759
+### Experiencia Laboral
+- **Empresa de Náutica de la Madre (Veranos)**
+  - Atención al cliente, revisión de balsas, limpieza y apoyo en el almacén.
+  - Desarrollo de habilidades para trabajar en equipo y resolver problemas.
 
- ## HABILIDADES
-- Buena Comunicación
+## Datos Personales
+- Teléfono: +34 680 29 42 97
+- Correo Electrónico: ericguillen93@gmail.com
+- Ubicación: Barcelona, 08759
 
--Resolución de problemas
+## Habilidades
+- Buena comunicación.
+- Resolución de problemas.
+- Paciente.
+- Trabajo en equipo.
 
--Paciente
-
-- Trabajar en equipo
-
- ## TÍTULOS EXTRA
-  -Carnet de ciclomotor
-
-  -Título de Excel (expert)
-
-
+## Títulos Extra
+- Carnet de ciclomotor.
+- Título de Excel (expert).
 
 ## Idiomas
 | Idioma      | Nivel       |

@@ -6,10 +6,14 @@ Estuve estudiando la educación secundaria obligatoria y la aprove con éxito.
 
 Barcelona, Hospitalet de Llobregat,(2023)
 Actualmente estoy estudiando un ciclo formativo de grado medio de sistemas microinformáticos y redes.
-## Formación
-### Educación Secundaria Obligatoria (ESO)
-- INS, Eugeni Ors, L’Hospitalet de Llobregat, Barcelona (2020)
-  - Con un promedio de un 6 aprobé la ESO.
+## Experiéncia
+-Programación de servidores de discord
+-Experiéncia en crear mi propia página web con html
+
+### ExperiÉncia LABORAL
+En los veranos he  estado trabajando con mi madre en su empresa, el trabajo consiste en revisiónes de todo tipo de cosas relaciónadas con náutica, en su misma empresa, tiene una tienda.
+Yo lo que hago es estar en la tienda o estar ayudadndo en el almacen,ya sea para revisar balsas o limpiar o atender a los clientes.
+Este trabajo no me ayuda mucho para el tema de la programación,pero si que me ayuda a saber más de cara al público
 
 ### Formación Profesional
 - FPGM Sistemas Microinformáticos y Redes

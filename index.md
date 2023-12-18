@@ -1,46 +1,37 @@
-<img src="https://github.com/iBrohl/ibrohl.github.io/blob/main/imagen_2022-04-25_221644148.png">
-
-# **Josué Ríos Aguilar**
+# **[Tu Nombre Completo]**
 ## Objetivo Profesional
-Tengo nociones de usuario en Cisco, en Wireshark y en la suite ofimática
-de Office 365. Como también, un certificado MOS Excel.
-Mi objetivo se centra en trabajar en el área de redes y también en el de la
-programación
+Nociones de usuario en Cisco, Wireshark y suite ofimática Office 365. Certificado MOS Excel. Objetivo centrado en trabajar en el área de redes y programación.
 
 ## Formación
-### 2020 ESO
-INS, Eugeni Ors, L’Hospitalet de Llobregat, Barcelona
-• Con un promedio de un 6 aprobé la ESO.
-### 2020 - Actualidad, FPGM Sistemas Microinformáticos y Redes
- iFP Centro de Formación Profesional, Barcelona
+### 2022 - Actualidad, Ciclo Formativo de Grado Medio en Sistemas Microinformáticos y Redes
+iFP Centro de Formación Profesional, Barcelona
 
-### Complementario
-2021 Competencias Digitales Excel (MOS)
-• Certificado por Microsoft.
- 2021 Inglés B2
-• English Connection - Pubilla Cases, L’Hospitalet de Llobregat,
-Barcelona
+### 2018-2022, Educación Secundaria Obligatoria
+Instituto de Educación Secundaria, Vallirana, Barcelona
 
 ## Experiencia
-Si bien no dispongo de recorrido o no tengo directamente experiencia
-estoy en proceso de mejora y con ganas de comenzar ya.
+- Programación de servidores de Discord.
+- Creación de mi propia página web con HTML.
 
-## Competencias personales
-Soy una persona proactiva, con iniciativa, con capacidad de
-organización, además, se gestionar el estrés y sé adaptarme a ambiente
-de trabajo colaborativo social.
+### Experiencia Laboral
+**[Nombre de la Empresa de Tu Madre]**
+- Barcelona, Hospitalet de Llobregat, Veranos de 2018-2022
+- Trabajo en revisión de productos náuticos y atención al cliente en la tienda.
 
-## Otros datos de interés
-Dispongo de tiempo para trabajar por las tardes por lo cual puedo
-adaptarme con facilidad a las exigencias que en su momento se den.
-Si bien el tiempo es una de las cosas que menos me preocupan, he de
-decir que los martes y jueves hago 1h y 30min de inglés. Pero estas se
-pueden adaptar perfectamente a mis prácticas, a fin de aprovechar
-bien el tiempo.
+## Competencias Personales
+Proactivo, con iniciativa, capacidad de organización, manejo del estrés y adaptabilidad al trabajo colaborativo.
+
+## Otros Datos de Interés
+Disponibilidad para trabajar por las tardes. Martes y jueves dedicados a clases de inglés (1h30min), con flexibilidad para adaptarse a las necesidades laborales.
 
 ### Idiomas
-| Idioma | Nivel |
-|:---:|   :---:|
-|Castellano | Nivel Alto|
-|Catalán| Nivel Alto|
-|Inglés| Nivel Medio|
+| Idioma     | Nivel       |
+|:----------:|:-----------:|
+| Castellano | Nivel Alto  |
+| Catalán    | Nivel Alto  |
+| Inglés     | Nivel Medio |
+
+## Datos Académicos
+- Barcelona, Vallirana (2018-2022): Educación Secundaria Obligatoria, aprobada con éxito.
+- Barcelona, Hospitalet de Llobregat (2023): Actualmente cursando Ciclo Formativo de Grado Medio en Sistemas Microinformáticos y Redes.
+

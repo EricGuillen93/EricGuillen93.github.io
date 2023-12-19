@@ -11,7 +11,7 @@
 - Programación de servidores de Discord.
 - Creación de una página web propia con HTML.
 
-### Experiencia Laboral
+## Experiencia Laboral
 - **Empresa de Náutica hola (Veranos)**
   - Atención al cliente, revisión de balsas, limpieza y apoyo en el almacén.
   - Desarrollo de habilidades para trabajar en equipo y resolver problemas.

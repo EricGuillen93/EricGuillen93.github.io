@@ -37,16 +37,13 @@
 - Trabajo en equipo.
 
 ---
+### Idiomas
 
-<details>
-  <summary><strong>Idiomas</strong></summary>
-  
-  | Idioma   | Nivel        |
-  |:--------:|:------------:|
-  | Español  | Nativo       |
-  | Catalán  | Nativo       |
-  | Inglés   | Nivel Medio  |
-</details>
+| Idioma   | Nivel        |
+|:--------:|:------------:|
+| Español  | Nativo       |
+| Catalán  | Nativo       |
+| Inglés   | Nivel Medio  |
 ---
 
 ## Títulos Extra

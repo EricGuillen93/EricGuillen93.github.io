@@ -38,11 +38,10 @@
 
 ---
 
-**Idiomas:**
-- Español: Nativo
-- Catalán: Nativo
-- Inglés: Nivel Medio
-
+**Idiomas
+*Español: Nativo*
+*Catalán: Nativo*
+*Inglés: Nivel Medio*
 ---
 
 ## Títulos Extra

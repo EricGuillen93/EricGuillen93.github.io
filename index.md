@@ -1,6 +1,6 @@
 # CURRÍCULUM
 ## Eric Guillen Artacho
-<img src="https://github.com/EricGuillen93/EricGuillen93.github.io/blob/main/foto%20eric.png">{ width=200px height=200px }
+<img src="https://github.com/EricGuillen93/EricGuillen93.github.io/blob/main/foto%20eric.png">
 ## Datos Académicos
 - Barcelona, Vallirana (2018-2022)
   - Educación Secundaria Obligatoria (ESO) - Aprobada con éxito.

@@ -1,6 +1,6 @@
 # CURRICULUM DE ERIC GUILLÉN ARTACHO
 
-(https://raw.githubusercontent.com/EricGuillen93/EricGuillen93.github.io/main/foto%20eric.png){ width=200 style="border-radius: 50%; margin-bottom: 20px;" }
+<img src="https://raw.githubusercontent.com/EricGuillen93/EricGuillen93.github.io/main/foto%20eric.png" width="200">
 
 **Datos Personales:**
 - 📞 +34 680 29 42 97

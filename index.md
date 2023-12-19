@@ -7,9 +7,13 @@
     </td>
     
     <td style="vertical-align: top; text-align: left;">
+    
       - 📞 +34 680 29 42 97 <br>
+      
       - ✉️ ericguillen93@gmail.com <br>
+      
       - 📍 Barcelona, 08759
+      
     </td>
   </tr>
 </table>

@@ -12,14 +12,14 @@
 - Creación de una página web propia con HTML.
 
 ### Experiencia Laboral
-- **Empresa de Náutica (Veranos)**
+- **Empresa de Náutica de la Madre (Veranos)**
   - Atención al cliente, revisión de balsas, limpieza y apoyo en el almacén.
   - Desarrollo de habilidades para trabajar en equipo y resolver problemas.
 
 ## Datos Personales
-- Teléfono: +34 680 29 42 97
-- Correo Electrónico: ericguillen93@gmail.com
-- Ubicación: Barcelona, 08759
+| Teléfono | Correo Electrónico          | Ubicación             |
+|:--------:|:--------------------------:|:---------------------:|
+| +34 680  | ericguillen93@gmail.com    | Barcelona, 08759      |
 
 ## Habilidades
 - Buena comunicación.
@@ -32,8 +32,9 @@
 - Título de Excel (expert).
 
 ## Idiomas
-- Español: Nativo
-- Catalán: Nativo
-- Inglés: Nivel Medio
-
+| Idioma   | Nivel        |
+|:--------:|:------------:|
+| Español  | Nativo       |
+| Catalán  | Nativo       |
+| Inglés   | Nivel Medio  |
 

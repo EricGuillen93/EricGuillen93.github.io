@@ -38,7 +38,7 @@
 
 ---
 
-**Idiomas:**
+## Idiomas
 - Español: Nativo
 - Catalán: Nativo
 - Inglés: Nivel Medio

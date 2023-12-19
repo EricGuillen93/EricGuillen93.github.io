@@ -38,13 +38,15 @@
 
 ---
 
-**Idiomas:**
-| Idioma   | Nivel        |
-|:--------:|:------------:|
-| Español  | Nativo       |
-| Catalán  | Nativo       |
-| Inglés   | Nivel Medio  |
-
+<details>
+  <summary><strong>Idiomas</strong></summary>
+  
+  | Idioma   | Nivel        |
+  |:--------:|:------------:|
+  | Español  | Nativo       |
+  | Catalán  | Nativo       |
+  | Inglés   | Nivel Medio  |
+</details>
 ---
 
 ## Títulos Extra

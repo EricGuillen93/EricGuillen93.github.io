@@ -1,7 +1,7 @@
 #  CURRÍCULUM
 
 ## Eric Guillen Artacho
-<img src="https://github.com/EricGuillen93/EricGuillen93.github.io/blob/main/foto%20eric.png" width="200">
+<img src="https://github.com/EricGuillen93/EricGuillen93.github.io/blob/main/foto%20eric.png">
 
 ### Datos Académicos
 - Barcelona, Vallirana (2018-2022)

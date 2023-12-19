@@ -13,6 +13,11 @@
     </td>
   </tr>
 </table>
+### Datos Académicos
+- Barcelona, Vallirana (2018-2022)
+  - Educación Secundaria Obligatoria (ESO) - Aprobada con éxito.
+- Barcelona, Hospitalet de Llobregat (2023)
+  - Ciclo Formativo de Grado Medio en Sistemas Microinformáticos y Redes.
 
 ### Experiencia
 - Programación de servidores de Discord.

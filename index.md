@@ -1,7 +1,7 @@
 # CURRICULUM DE ERIC GUILLÉN ARTACHO
 
 ## Eric Guillen Artacho
-![Foto](https://github.com/EricGuillen93/EricGuillen93.github.io/blob/main/foto%20eric.png){ width=150px }
+<img src="https://github.com/EricGuillen93/EricGuillen93.github.io/blob/main/foto%20eric.png" width="200">
 
 ### Datos Académicos
 - Barcelona, Vallirana (2018-2022)
@@ -40,3 +40,4 @@
 | Español  | Nativo       |
 | Catalán  | Nativo       |
 | Inglés   | Nivel Medio  |
+

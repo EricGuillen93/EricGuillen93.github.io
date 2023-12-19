@@ -1,18 +1,20 @@
 # CURRICULUM DE ERIC GUILLÉN ARTACHO
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
-    ## Eric Guillen Artacho
-    <img src="https://raw.githubusercontent.com/EricGuillen93/EricGuillen93.github.io/main/foto%20eric.png" width="200">
-  </div>
-  
-  <div style="flex: 1; text-align: left;">
-    ### Datos Personales
-    - 📞 +34 680 29 42 97
-    - ✉️ ericguillen93@gmail.com
-    - 📍 Barcelona, 08759
-  </div>
-</div>
+<table>
+  <tr>
+    <td style="vertical-align: top;">
+      ## Eric Guillen Artacho
+      <img src="https://raw.githubusercontent.com/EricGuillen93/EricGuillen93.github.io/main/foto%20eric.png" width="200">
+    </td>
+    
+    <td style="vertical-align: top; text-align: left;">
+      ### Datos Personales
+      - 📞 +34 680 29 42 97
+      - ✉️ ericguillen93@gmail.com
+      - 📍 Barcelona, 08759
+    </td>
+  </tr>
+</table>
 
 ### Datos Académicos
 - Barcelona, Vallirana (2018-2022)
@@ -46,4 +48,5 @@
 | Español  | Nativo       |
 | Catalán  | Nativo       |
 | Inglés   | Nivel Medio  |
+
 

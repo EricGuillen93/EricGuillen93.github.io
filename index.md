@@ -1,4 +1,5 @@
 # CURRÍCULUM
+## Eric Guillen Artacho
 
 ## Datos Académicos
 - Barcelona, Vallirana (2018-2022)

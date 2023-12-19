@@ -1,6 +1,6 @@
 # CURRÍCULUM
 ## Eric Guillen Artacho
-<img src="https://github.com/EricGuillen93/EricGuillen93.github.io/blob/main/foto%20eric.png">
+<img src="https://github.com/EricGuillen93/EricGuillen93.github.io/blob/main/foto%20eric.png" width="200">
 
 ## Datos Académicos
 - Barcelona, Vallirana (2018-2022)
@@ -19,11 +19,9 @@
   - Desarrollo de habilidades para trabajar en equipo y resolver problemas.
 
 ## Datos Personales
-
 - 📞 +34 680 29 42 97
 - ✉️ ericguillen93@gmail.com
 - 📍 Barcelona, 08759
-
 
 ## Habilidades
 - Buena comunicación.
@@ -36,7 +34,6 @@
 - Título de Excel (expert).
 
 ## Idiomas
-- Español---------Nativo
-- Catalán---------Nativo
-- Inglés----------Nivel Medio
-
+- Español: Nativo
+- Catalán: Nativo
+- Inglés: Nivel Medio

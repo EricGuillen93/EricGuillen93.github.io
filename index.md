@@ -8,7 +8,6 @@
     </td>
     
     <td style="vertical-align: top; text-align: left;">
-      ### Datos Personales
       - 📞 +34 680 29 42 97
       - ✉️ ericguillen93@gmail.com
       - 📍 Barcelona, 08759

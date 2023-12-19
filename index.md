@@ -3,7 +3,6 @@
 <table>
   <tr>
     <td style="vertical-align: top;">
-      ## Eric Guillen Artacho
       <img src="https://raw.githubusercontent.com/EricGuillen93/EricGuillen93.github.io/main/foto%20eric.png" width="200">
     </td>
     

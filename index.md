@@ -37,16 +37,14 @@
 - Trabajo en equipo.
 
 ---
-### Idiomas
 
-| Idioma   | Nivel        |
-|:--------:|:------------:|
-| Español  | Nativo       |
-| Catalán  | Nativo       |
-| Inglés   | Nivel Medio  |
+**Idiomas:**
+- Español: Nativo
+- Catalán: Nativo
+- Inglés: Nivel Medio
+
 ---
 
 ## Títulos Extra
 - Carnet de ciclomotor.
 - Título de Excel (expert).
-

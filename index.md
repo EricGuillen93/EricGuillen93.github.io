@@ -1,39 +1,42 @@
-## CURRÍCULUM
-## Eric Guillen Artacho
-<img src="https://github.com/EricGuillen93/EricGuillen93.github.io/blob/main/foto%20eric.png" width="200">
+# CURRICULUM DE ERIC GUILLÉN ARTACHO
 
-## Datos Académicos
+## Eric Guillen Artacho
+![Foto](https://github.com/EricGuillen93/EricGuillen93.github.io/blob/main/foto%20eric.png){ width=150px }
+
+### Datos Académicos
 - Barcelona, Vallirana (2018-2022)
   - Educación Secundaria Obligatoria (ESO) - Aprobada con éxito.
-
 - Barcelona, Hospitalet de Llobregat (2023)
   - Ciclo Formativo de Grado Medio en Sistemas Microinformáticos y Redes.
 
-## Experiencia
+### Experiencia
 - Programación de servidores de Discord.
 - Creación de una página web propia con HTML.
 
-## Experiencia Laboral
+#### Experiencia Laboral
 - **Empresa de Náutica (Veranos)**
   - Atención al cliente, revisión de balsas, limpieza y apoyo en el almacén.
   - Desarrollo de habilidades para trabajar en equipo y resolver problemas.
 
-## Datos Personales
+### Datos Personales
 - 📞 +34 680 29 42 97
 - ✉️ ericguillen93@gmail.com
 - 📍 Barcelona, 08759
 
-## Habilidades
+### Habilidades
 - Buena comunicación.
 - Resolución de problemas.
 - Paciente.
 - Trabajo en equipo.
 
-## Títulos Extra
+### Títulos Extra
 - Carnet de ciclomotor.
 - Título de Excel (expert).
 
-## Idiomas
-- Español: Nativo
-- Catalán: Nativo
-- Inglés: Nivel Medio
+### Idiomas
+
+| Idioma   | Nivel        |
+|:--------:|:------------:|
+| Español  | Nativo       |
+| Catalán  | Nativo       |
+| Inglés   | Nivel Medio  |

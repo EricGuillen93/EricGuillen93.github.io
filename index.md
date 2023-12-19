@@ -18,11 +18,10 @@
 
 ## Datos Personales
 
--📞 +34 680 29 42 97
+- 📞 +34 680 29 42 97
+- ✉️ ericguillen93@gmail.com
+- 📍 Barcelona, 08759
 
--✉️ ericguillen93@gmail.com
-
--📍 Barcelona, 08759
 
 ## Habilidades
 - Buena comunicación.

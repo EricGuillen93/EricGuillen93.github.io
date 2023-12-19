@@ -2,7 +2,7 @@
 
 <div style="border: 1px solid #ccc; padding: 20px; background-color: #fff; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); text-align: center;">
 
-  <img src="https://raw.githubusercontent.com/EricGuillen93/EricGuillen93.github.io/main/foto%20eric.png" alt="Foto de Eric Guillen" style="border-radius: 50%; max-width: 100%; margin-bottom: 20px;">
+  <img src="https://raw.githubusercontent.com/EricGuillen93/EricGuillen93.github.io/main/foto%20eric.png" alt="Foto de Eric Guillen" width="200" style="border-radius: 50%; margin-bottom: 20px;">
 
   <div style="text-align: left;">
     <strong>Datos Personales:</strong><br>
@@ -44,17 +44,20 @@
 
   ---
 
+  <div style="background-color: #f0f0f0; padding: 10px; margin: 10px 0;">
+    ## Idiomas
+    | Idioma   | Nivel        |
+    |:--------:|:------------:|
+    | Español  | Nativo       |
+    | Catalán  | Nativo       |
+    | Inglés   | Nivel Medio  |
+  </div>
+
+  ---
+
   ## Títulos Extra
   - Carnet de ciclomotor.
   - Título de Excel (expert).
 
-  ---
-
-  ## Idiomas
-  | Idioma   | Nivel        |
-  |:--------:|:------------:|
-  | Español  | Nativo       |
-  | Catalán  | Nativo       |
-  | Inglés   | Nivel Medio  |
-  
 </div>
+

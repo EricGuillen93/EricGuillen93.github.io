@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/EricGuillen93/EricGuillen93.github.io/main/foto%20eric.png" width="200">
 
-**Datos Personales:**
+## Datos Personales
 - 📞 +34 680 29 42 97
 - ✉️ ericguillen93@gmail.com
 - 📍 Barcelona, 08759
